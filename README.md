@@ -61,5 +61,5 @@ If you don't burn your LP, it will be removed automatically.
 
 ## CONTACT
 For full version message me on:
-Telegram: [devsharplabs](https://t.me/devsharplabs)
+Telegram: [devsharplabs](https://t.me/devsharplabs) or
 Discord: `@devsharplabs` or user id: (782226818441936906)
