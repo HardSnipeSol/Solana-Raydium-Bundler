@@ -60,6 +60,7 @@ This involves sending a percentage of every keypair's token balance to the fee p
 If you don't burn your LP, it will be removed automatically.
 
 ## CONTACT
-For full version message me on:
-Telegram: [devsharplabs](https://t.me/devsharplabs) or
-Discord: `@devsharplabs` or user id: (782226818441936906)
+For full version message me on: 
+- Telegram: [devsharplabs](https://t.me/devsharplabs)
+- Discord: `@devsharplabs` or user id: (782226818441936906)
+- Server: https://discord.gg/3G2Hd2ePuz
